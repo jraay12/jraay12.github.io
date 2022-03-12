@@ -1,0 +1,41 @@
+h1{
+    color: red;
+    font-size: size 30px;
+} 
+
+
+p{
+    color: whitesmoke;
+    font-size: 19px;
+}
+
+
+h2{
+    color: red;
+    font-size: 19px;
+}
+
+
+li{
+    color: whitesmoke;
+    font-size: 19px;
+}
+
+
+h4{
+    color: red;
+    font-size: 30px;
+}
+
+
+aside{
+    font-size: 19px;
+    color: aqua;
+}
+
+
+marquee{
+        font-size: xx-large;
+    font-style: oblique;
+    color: aqua;
+}
